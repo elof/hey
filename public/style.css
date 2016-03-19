@@ -6,6 +6,9 @@ body {
 a, hr  {
   color: #00bf8f;
 }
+a:hover {
+  color: pink;
+}
 .label {
   float: right;
   padding: 15px;
