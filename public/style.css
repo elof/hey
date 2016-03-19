@@ -1,0 +1,12 @@
+body {
+  background-color: gray;
+  text-align: center;
+  color: white;
+}
+a, hr  {
+  color: #00bf8f;
+}
+.label {
+  float: right;
+  padding: 15px;
+}
